@@ -6,7 +6,7 @@ Bienvenue dans mon portfolio de projets Data Science, conçu pour montrer mes co
 
 ---
 
-## 📚 Sommaire des projets
+##  Sommaire des projets
 
 | N° | Projet                             | Secteur        | Sujet principal                   |
 |----|------------------------------------|----------------|-----------------------------------|
@@ -34,7 +34,7 @@ Bienvenue dans mon portfolio de projets Data Science, conçu pour montrer mes co
 
 ---
 
-## 🚀 Démonstrations
+##  Démonstrations
 
 | Projet | Type de Démo | Lien |
 |--------|--------------|------|
@@ -44,7 +44,7 @@ Bienvenue dans mon portfolio de projets Data Science, conçu pour montrer mes co
 
 ---
 
-## 💼 Objectif du portfolio
+##  Objectif du portfolio
 
 Ce portfolio a pour but de :
 - Montrer ma capacité à construire des projets de A à Z
@@ -54,8 +54,8 @@ Ce portfolio a pour but de :
 
 ---
 
-## 👤 Auteur
+##  Auteur
 
-**Nom :** Nangaut Dalikan  
-**LinkedIn :** [TonProfil](https://linkedin.com/in/...)  
-**YouTube | TikTok | Instagram :** *(liens à ajouter)*  
+Nom :N'GUESSAN NANGAUT DALIKAN KOUASSI  
+LinkedIn :(https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)  
+YouTube | TikTok | Instagram :** *(liens à ajouter)*  
