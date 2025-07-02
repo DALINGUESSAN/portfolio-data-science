@@ -1,1 +1,5 @@
-# Dépendances spécifiques au projet
+pandas
+numpy
+matplotlib
+seaborn
+scipy

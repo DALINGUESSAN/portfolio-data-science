@@ -1,0 +1,39 @@
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Notebooks temporaires
+.ipynb_checkpoints/
+
+# Données sensibles ou volumineuses
+data/*.csv
+data/*.xlsx
+data/*.json
+*.zip
+
+# Résultats et graphiques
+output/
+*.png
+*.jpg
+*.jpeg
+
+# Éditeurs
+.vscode/
+.idea/
+
+# Environnements virtuels
+env/
+venv/
+.venv/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Streamlit config
+.streamlit/
