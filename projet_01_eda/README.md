@@ -51,7 +51,7 @@ Ce projet analyse un jeu de données anonymisé de transactions bancaires afin d
 - Segmentation RFM (Recency, Frequency, Monetary).
 - Analyse des comportements d’achat.
 -  Dossier : `marketing_eda/`
-- 🖥 Dashboard interactif : `marketing_eda/dashboard.py`
+-  Dashboard interactif : `marketing_eda/dashboard.py`
 
 
 
@@ -80,7 +80,7 @@ Ce projet explore une base de données client d’une entreprise de vente en lig
 | Corrélations | Variables numériques uniquement |
 | PCA | Visualisation 2D des clients selon leurs dépenses |
 
-📁 Graphiques disponibles dans `marketing_eda/figures/`
+ Graphiques disponibles dans `marketing_eda/figures/`
 ##  Lancer l'analyse
 ```bash
 cd fraude_eda/
@@ -129,4 +129,4 @@ Visualisation statistique
 
 Dashboarding interactif avec Streamlit
 
-⭐ Si vous aimez ce projet, n’hésitez pas à le starrer !
+ Si vous aimez ce projet, n’hésitez pas à le starrer !
