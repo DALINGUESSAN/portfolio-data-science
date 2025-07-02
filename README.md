@@ -1,6 +1,6 @@
 Bienvenue dans mon portfolio de projets Data Science.
 
-# Portfolio Data Science – 10 Projets
+# Portfolio Data Science – 10 Projects
 
 Bienvenue dans mon portfolio de projets Data Science, conçu pour montrer mes compétences pratiques dans l’analyse de données, le machine learning, le deep learning, les modèles génératifs et le déploiement en production.
 
@@ -16,7 +16,7 @@ Bienvenue dans mon portfolio de projets Data Science, conçu pour montrer mes co
 | 04 | Régression                         | Immobilier     | Prédiction du prix de logement    |
 | 05 | Classification                     | Santé / Banque | Risque de réadmission / crédit    |
 | 06 | Séries temporelles                 | Banque         | Prédiction volume de transactions |
-| 07 | Deep Learning (CNN)                | Industrie      | Chat vs Dog                       |
+| 07 | Deep Learning (CNN)                | Industrie      | Cat vs Dog                       |
 | 08 | IA générative (GAN)                | Mode / Art     | Génération d’images               |
 | 09 | GPT & LLaMA                        | Support client | Génération de réponses automatiques |
 | 10 | Recommandation                     | Audiovisuel    | Recommandation de films / produits |
