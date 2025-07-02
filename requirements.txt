@@ -1,0 +1,6 @@
+# Dépendances globales du portfolio
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
