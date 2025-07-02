@@ -1,8 +1,6 @@
-# Portfolio Data Science – 10 Projets
-
 Bienvenue dans mon portfolio de projets Data Science.
 
-# 🧠 Portfolio Data Science – 10 Projets Clés
+# Portfolio Data Science – 10 Projets
 
 Bienvenue dans mon portfolio de projets Data Science, conçu pour montrer mes compétences pratiques dans l’analyse de données, le machine learning, le deep learning, les modèles génératifs et le déploiement en production.
 
